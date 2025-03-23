@@ -1,4 +1,5 @@
-## Hi there 👋
+hola! bienvenidos a mi GIT!
+
 
 <!--
 **lolistiko/lolistiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
